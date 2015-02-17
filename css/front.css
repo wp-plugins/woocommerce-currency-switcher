@@ -1,0 +1,43 @@
+/**************** ddslick ****************************************/
+.woocommerce-currency-switcher-form .dd-selected
+{
+    color: #000000;
+    display: block;
+    font-weight: bold;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.woocommerce-currency-switcher-form a.dd-selected:hover{
+    text-decoration: none;
+}
+
+
+.woocommerce-currency-switcher-form a.dd-option{
+    text-decoration: none;
+    display: block;
+    font-weight: bold;
+    overflow: hidden;
+    padding: 10px;
+    background: #fff;
+}
+
+.woocommerce-currency-switcher-form a.dd-option:hover{
+    text-decoration: none;
+}
+
+.woocommerce-currency-switcher-form ul.dd-options{
+    list-style: none !important;
+}
+
+/**************** ddslick end ****************************************/
+
+.woocs_show_flags .chosen-container .chosen-results li.highlighted {
+    color: green !important;
+}
+
+.woocommerce-currency-switcher option{
+    height: 23px;
+    padding-bottom: 3px;
+}
+

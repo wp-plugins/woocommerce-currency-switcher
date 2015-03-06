@@ -6,7 +6,7 @@ Requires at least: 3.5.0
 Tested up to: 4.1.1
 Stable tag: 1.0.3
 
-WooCommerce Currency Switcher – is the plugin that allows you to switch to different currencies and get their rates converted in the real time in your WooCommerce store site!
+WooCommerce Currency Switcher – is the plugin that allows you to switch to different currencies and get their rates converted in the real time!
 
 == Description ==
 
